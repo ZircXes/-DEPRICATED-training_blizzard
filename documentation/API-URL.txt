@@ -1,0 +1,1 @@
+https://trainingblizzardapi.azurewebsites.net/api/HttpTriggerJS1?code=f7T3yUI3bkGS6S6aPVyyLOHNRMJWZIXHWPi5Wi6fBF5zZFzq8pkabA==
